@@ -1,0 +1,175 @@
+@media (max-width: 1080px) {
+  .h1,
+h1 {
+    padding-top: 60px;
+    padding-left: 57px;
+  }
+  .offer__text {
+    line-height: 30px;
+    margin-top: 55px;
+    margin-left: 15px;
+    font-size: 25px;
+  }
+  .table-btn {
+    width: 300px;
+  }
+  .h2,
+h2 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+  .h4,
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #373737;
+  }
+}
+@media (max-width: 992px) {
+  .nav-btn {
+    margin: 0px 0 15px 0;
+    width: 190px;
+  }
+  .icon-header {
+    margin-left: 0;
+  }
+  .blue {
+    margin-bottom: 10px;
+  }
+  .table-btn {
+    width: 300px;
+  }
+  .navbar-nav {
+    align-items: flex-start !important;
+  }
+  .offer__text {
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+}
+@media (max-width: 1199px) {
+  .btn-mobile {
+    font-size: 12px;
+    background: none;
+    border: 1px solid #ff6600;
+    color: #373737 !important;
+    margin-bottom: 0;
+    font-weight: 500;
+    line-height: 1.2;
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  .btn-mobile:hover {
+    background: none;
+    color: #373737 !important;
+  }
+}
+@media (max-width: 768px) {
+  .col-sm-15 {
+    width: 20%;
+    float: left;
+  }
+  h1 {
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 65px;
+    font-size: 25px;
+  }
+  .h2,
+h2 {
+    text-align: center;
+  }
+  .navbar-nav {
+    align-items: flex-start !important;
+  }
+}
+@media all and (max-width: 426.9px) {
+  .h2,
+h2 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .h4,
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #373737;
+  }
+  .form-text {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .table-btn {
+    font-size: 16px;
+  }
+  .offer-btn {
+    width: 310px;
+    font-size: 16px;
+  }
+  .table-btn {
+    width: 100%;
+  }
+}
+@media (max-width: 575px) {
+  .sell-btn {
+    width: 100%;
+  }
+  .logo {
+    max-width: 110px;
+    margin-top: 4px;
+  }
+  h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+  .card-title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .card-link {
+    margin-bottom: 10px;
+  }
+  .offer {
+    padding-top: 10px;
+    padding-bottom: 0;
+  }
+  .section_padding {
+    padding-top: 15px;
+  }
+  .section_padding {
+    padding-bottom: 15px;
+  }
+  .section__margin {
+    margin-top: 4.2rem;
+    margin-bottom: 0;
+  }
+  .footer {
+    padding: 15px 0 15px 0;
+  }
+  .customers {
+    padding-bottom: 0;
+    padding: 20px 0;
+  }
+  .accordion {
+    margin-bottom: 15px;
+  }
+  ._orientationRight_f881 .button_c586 {
+    margin-bottom: 55px !important;
+  }
+  .navbar-toggler {
+    padding: 0px 10px 0 0;
+  }
+  .navbar-brand {
+    margin-right: 0;
+  }
+  .btn-mobile {
+    padding: 5px 5px;
+  }
+  .footer-icon {
+    padding-bottom: 5px;
+  }
+}
